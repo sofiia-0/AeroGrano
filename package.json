@@ -1,0 +1,8 @@
+{
+  "name": "aerograno-rural-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototipo web de análisis y sostenibilidad de AeroGrano Rural",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "license": "UNLICENSED"
+}
